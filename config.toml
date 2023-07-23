@@ -1,0 +1,53 @@
+baseURL = "https://sebdeol.github.io/"
+author = "Sebastien"
+copyright = "Copyright © 2023, Sebastien P. all rights reserved."
+paginate = 5
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+enableEmoji = true
+ignoreErrors = ["error-remote-getjson"]
+
+# ------------------------------
+theme = "paper"
+title = "Sebastien's ePortfolio"
+
+[params]
+  color = 'linen'
+  bio = 'University of Essex - E-Portolio'
+# ------------------------------
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = true
+  [privacy.twitter]
+    disabled = true
+  [privacy.instagram]
+    disabled = true
+  [privacy.youtube]
+    disabled = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+  [services.twitter]
+    disableInlineCSS = true
