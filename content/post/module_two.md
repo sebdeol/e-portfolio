@@ -6,7 +6,14 @@ description = "Module two, Introduction to Object Oriented Design"
 weight = 10
 +++
 
-In this module we explored Object Oriented Programming
+Here are another 12 weeks of self reflection, broken down by units. I've written them in a pretty informal way.
+
+I hope each reflection will give you some insight into my studies.
+
+Below is a small extract from the course's website:
+
+In this module, we will use the Python programming language to support the design and development of object oriented programs. The object oriented analysis and design process will be supported using the Unified Modelling Language (UML). The four major features of object oriented programs will be examined, which include abstraction, encapsulation, inheritance, and polymorphism.
+
 
 1. [Unit 1](../m2u1/)
 2. [Unit 2](../m2u2/)
