@@ -6,7 +6,7 @@ description = "Module two, Final Reflection"
 hidden = true
 +++
 
-# Final Reflectionx
+# Final Reflection
 
 
 ## Introduction
