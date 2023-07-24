@@ -26,9 +26,9 @@ title = "Sebastien's ePortfolio"
 [menu]
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "about_me"
+    name = "About Me"
+    url = "/about_me/"
     weight = 10
 
 [taxonomies]
