@@ -3,7 +3,6 @@ author = "Sebastien"
 title = "Module Two"
 date = "2023-05-23"
 description = "Module two, Introduction to Object Oriented Design"
-weight = 10
 +++
 
 Here are another 12 weeks of self reflection, broken down by units. I've written them in a pretty informal way.
