@@ -1,9 +1,8 @@
 +++
 author = "Sebastien"
-title = "Module Three"
+title = "Secure Software Development"
 date = "2023-10-28"
-description = "Module three, Secure Software Development"
-weight = 10
+description = "Secure Software Development"
 +++
 
 Welcome to module 3! Here are another 12 weeks of self reflection, broken down by units.

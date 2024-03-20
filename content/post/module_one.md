@@ -1,11 +1,11 @@
 +++
 author = "Sebastien"
-title = "Module One"
+title = "Launching into Computer Science"
 date = "2023-01-23"
-description = "Module One, Launching into Computer Science"
+description = "Launching into Computer Science"
 +++
 
-Coming soon :construction:
+Coming soon 🚧
 
 1. Unit 1
 2. Unit 2
