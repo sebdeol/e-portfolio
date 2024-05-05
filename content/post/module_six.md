@@ -3,7 +3,6 @@ author = "Sebastien"
 title = "Software Engineering Project Management"
 date = "2024-03-20"
 description = "Software Engineering Project Management"
-weight = 10
 +++
 
 Welcome back to my e-portfolio and to the Software Engineering Project Management module!
