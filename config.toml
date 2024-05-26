@@ -1,12 +1,17 @@
 baseURL = "https://sebdeol.github.io/"
 author = "Sebastien"
-copyright = "Copyright © 2023, Sebastien P. all rights reserved."
+copyright = "Copyright © 2024, Sebastien P. all rights reserved."
 paginate = 5
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 enableEmoji = true
 ignoreErrors = ["error-remote-getjson"]
+disablePostNavigation = true
+
+[markup.goldmark.renderer]
+unsafe= true
+
 
 # ------------------------------
 theme = "paper"
