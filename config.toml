@@ -7,11 +7,6 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 enableEmoji = true
 ignoreErrors = ["error-remote-getjson"]
-disablePostNavigation = true
-
-[markup.goldmark.renderer]
-unsafe= true
-
 
 # ------------------------------
 theme = "paper"
